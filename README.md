@@ -1,6 +1,5 @@
 # DAA-ASSIGNMENTS
 
-## Topics Covered
 ### Multithreading in Python
 * Multithreaded Matrix Multiplication
 ### Classic Algorithm Problems:
